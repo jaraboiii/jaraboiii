@@ -45,7 +45,7 @@ Disign tool &nbsp; <i>**Figma**</i> </br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,arduino,bash,discord,git,github,ps,pr,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,arduino,bash,discord,git,github,ps,pr,windows,nextjs" />
     <img src="https://skillicons.dev/icons?i=sql,php,bootstrap,c,css,dart,flutter,html,js,mysql,nodejs,js,npm,php" /><br>
 </div>
 
